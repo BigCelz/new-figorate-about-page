@@ -420,6 +420,7 @@ body {
 /* join end */
 
 
+
 /* footer section start */
 .footer{
     background: #4EB867;
@@ -531,8 +532,8 @@ body {
 
     .first-list-word{
         font-family: Space Grotesk;
-        font-size: 24px;
-        font-weight: 700;
+        font-size: 15px !important;
+        font-weight: 700 !important;
         line-height: 26.4px;
         text-align: left;        
         color: #fff;    
@@ -572,7 +573,7 @@ body {
 
     .footer-linkk{
         font-family: Open Sans;
-        font-size: 14px;
+        font-size: 12px !important;
         font-weight: 400 !important;
         line-height: 21.79px;
         text-align: center;
@@ -580,5 +581,19 @@ body {
         margin-right: 10px !important; 
         margin-bottom: 0px !important;
     }
+
+    .footer-linkk-ii{
+        font-family: Open Sans;
+        font-size: 12px !important;
+        font-weight: 400 !important;
+        line-height: 21.79px;
+        text-align: center;
+        color: #fff !important;
+    }
+
+    .text-light small{
+        font-size: 10px !important;
+    }
 }
 /* footer section end */
+
